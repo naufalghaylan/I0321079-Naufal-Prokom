@@ -1,0 +1,6 @@
+Nama: Naufal 
+Umur: 19
+Alamat: Solo
+Nama: Nafal
+Umur: 20
+Alamat: Surakarta
